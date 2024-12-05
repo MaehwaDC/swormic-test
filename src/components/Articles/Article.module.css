@@ -1,0 +1,24 @@
+.card {
+  cursor: pointer;
+  padding: 10px;
+  border: 1px solid rgba(6, 6, 15, 0.25);
+  border-radius: 20px;
+}
+
+.card:hover {
+  opacity: 0.8;
+}
+
+.viewed {
+  background-color: burlywood;
+}
+
+.title {
+  font-size: 18px;
+  font-weight: 600;
+  margin-bottom: 12px;
+}
+
+.info {
+  font-size: 14px;
+}

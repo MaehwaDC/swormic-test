@@ -1,0 +1,15 @@
+.content {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding-top: 20px;
+}
+
+.block {
+  margin: 10px 0;
+}
+
+.block:first-of-type {
+  margin-top: 0;
+}

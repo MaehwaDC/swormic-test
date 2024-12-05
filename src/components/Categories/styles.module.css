@@ -1,0 +1,15 @@
+.content {
+  display: flex;
+}
+
+.item {
+  padding: 10px;
+  border: 0;
+  border-radius: 10px;
+  margin-right: 10px;
+  cursor: pointer;
+}
+
+.selected {
+  background-color: beige;
+}
